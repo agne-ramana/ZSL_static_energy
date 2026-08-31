@@ -1,0 +1,2817 @@
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+run folder   : /mnt/lustre/a2fs-work3/work/e89/e89/agne_r/Crystalline_HfO2_Interfaces/Claude/HfO2_STO_interfaces/V4_lattice_matches/updated/V4_lattice_matches/STO_HfO2_m111_pbesol_matches
+termination  : ('3_O2_P-1_1', '2_TiO2_P4/mmm_3')
+matches      : 8
+natoms range : 210 - 885
+
+8/8 jobs have an energy in cp2k.out
+wrote energies.csv
+
+--- per-atom energy vs. lattice match (sorted by strain, low to high) ---
+  tag                          natoms     area  max|eps|      eV/atom
+  m07_A0350_eps0p5                885    350.1     0.51%  -740.791532
+  m06_A0350_eps1p2                885    350.1     1.16%  -740.794905
+  m05_A0304_eps1p6                780    304.4     1.64%  -740.715569
+  m04_A0137_eps2p5                315    137.0     2.47%  -740.989563
+  m03_A0137_eps2p8                315    137.0     2.81%  -741.408458
+  m02_A0122_eps6p4                300    121.8     6.40%  -741.182705
+  m01_A0091_eps6p5                210     91.3     6.50%  -741.300192
+  m00_A0091_eps8p2                210     91.3     8.20%  -741.321610
+
+  --> lowest eV/atom: m03_A0137_eps2p8 (max|eps|=2.81%, area=137.0 A^2)
+
+wrote energies.png
+Done!

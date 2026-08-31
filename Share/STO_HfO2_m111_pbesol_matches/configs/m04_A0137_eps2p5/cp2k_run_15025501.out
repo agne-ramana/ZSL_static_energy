@@ -1,0 +1,4 @@
+Sourcing /mnt/lustre/a2fs-work4/work/y07/shared/apps/core/cp2k/cp2k-2024.3/toolchain_cray_default+mkl+plumed/tools/toolchain/install/setup
+
+Note: modifications to your environment from the CP2K toolchain setup script will persist after you unload this module
+
