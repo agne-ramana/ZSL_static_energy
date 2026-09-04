@@ -1,0 +1,144 @@
+=== INTERFACE BONDING & COORDINATION ANALYSIS ===
+Structure: /Users/agne/Documents/HfO_midi/Z_CLEAN/STO_TiO2_mHfO2_-111/3_Tight_geo_opt/Run_2/Extended_run/STO_HfO2_Interface-pos-1.xyz (frame index -1)
+Total atoms: 915
+
+Auto-detected cation-O bond cutoffs (first RDF minimum):
+  Sr-O: 3.075 A
+  Ti-O: 2.385 A
+  Hf-O: 2.445 A
+
+Coordination number statistics (cation CN = # O neighbors; O CN = # cation neighbors):
+  Sr  (n=  75)  mean CN = 10.36  min = 8  max = 12
+       distribution -> CN=8: 25, CN=9: 2, CN=10: 3, CN=11: 11, CN=12: 34
+  Ti  (n=  75)  mean CN = 5.72  min = 4  max = 6
+       distribution -> CN=4: 1, CN=5: 19, CN=6: 55
+  Hf  (n= 180)  mean CN = 6.76  min = 6  max = 7
+       distribution -> CN=6: 44, CN=7: 136
+  O   (n= 585)  mean CN = 4.14  min = 2  max = 6
+       distribution -> CN=2: 17, CN=3: 203, CN=4: 189, CN=5: 33, CN=6: 143
+
+Bond valence sums (Brese & O'Keeffe; target = formal oxidation state, Sr2+/Ti4+/Hf4+/O2-):
+  Values near the target confirm the auto-detected cutoffs/bonds are chemically sound;
+  large deviations would flag a bad cutoff or a genuinely under/over-bonded site.
+  Sr   target=|2|  mean=1.92  std=0.38  min=1.41  max=2.54
+  Ti   target=|4|  mean=4.01  std=0.19  min=3.49  max=4.31
+  Hf   target=|4|  mean=4.10  std=0.18  min=3.58  max=4.36
+  O    target=|2.0|  mean=2.02  std=0.20  min=1.39  max=2.55
+  O (bridging only, n=23)  target=2.0  mean=1.84  std=0.20  min=1.50  max=2.23
+
+Bridging O atoms (bonded to >=1 Ti AND >=1 Hf; Sr excluded from this criterion): 23
+Total interfacial atoms (bridging O + the Ti/Hf cations bonded to them): 64
+  interfacial Ti: 16
+  interfacial Hf: 25
+  interfacial O: 23
+  interfacial Sr: 0 (by design -- see docstring)
+
+Bridging-O bond-pattern breakdown (Ti bonds / Hf bonds / incidental Sr bonds -> # of O atoms,
+mean BVS = bond valence sum for that pattern, target 2.0 -- see note above):
+  For reference, known bulk motifs: STO bridging O = 2 Ti (+ up to 4 Sr); monoclinic
+  HfO2 has O sites that are natively 3-fold or 4-fold coordinated by Hf ALONE (no Ti).
+  So e.g. '1 Ti + 3 Hf' is simply an HfO2-like 4-fold O reaching one Ti across the
+  boundary -- not an artifact -- and a mean BVS near 2.0 confirms it's not overbonded.
+  1 Ti + 2 Hf  ->  6 oxygen(s), mean BVS = 2.12
+  1 Ti + 3 Hf  ->  6 oxygen(s), mean BVS = 1.83
+  1 Ti + 1 Hf  ->  5 oxygen(s), mean BVS = 1.64
+  2 Ti + 1 Hf, 1 Sr (not counted)  ->  3 oxygen(s), mean BVS = 1.77
+  1 Ti + 1 Hf, 1 Sr (not counted)  ->  1 oxygen(s), mean BVS = 1.71
+  2 Ti + 1 Hf  ->  1 oxygen(s), mean BVS = 1.58
+  2 Ti + 1 Hf, 2 Sr (not counted)  ->  1 oxygen(s), mean BVS = 1.72
+
+Bridging O detail (index is 0-based, matches coordination_numbers.csv):
+  format: O<idx>  z=<z>  total_CN=<n>  BVS=<bond valence sum, target 2.0>
+          |  Ti bonds  |  Hf bonds  |  Sr bonds (excluded, shown for reference)
+  O 491  z= 20.117  total_CN=5  BVS=1.72  (2 Ti, 1 Hf, 2 Sr)
+           Ti -> Ti311(1.957 A), Ti316(2.238 A)
+           Hf -> Hf234(2.155 A)
+           Sr -> Sr61(2.925 A), Sr62(3.064 A)  [excluded from interfacial definition]
+  O 497  z= 20.882  total_CN=2  BVS=1.71  (1 Ti, 1 Hf, 0 Sr)
+           Ti -> Ti317(1.846 A)
+           Hf -> Hf253(2.009 A)
+           Sr -> none  [excluded from interfacial definition]
+  O 498  z= 20.543  total_CN=2  BVS=1.71  (1 Ti, 1 Hf, 0 Sr)
+           Ti -> Ti323(1.766 A)
+           Hf -> Hf240(2.133 A)
+           Sr -> none  [excluded from interfacial definition]
+  O 502  z= 20.201  total_CN=4  BVS=1.88  (2 Ti, 1 Hf, 1 Sr)
+           Ti -> Ti323(1.961 A), Ti327(1.996 A)
+           Hf -> Hf232(2.180 A)
+           Sr -> Sr73(2.991 A)  [excluded from interfacial definition]
+  O 538  z= 20.406  total_CN=2  BVS=1.50  (1 Ti, 1 Hf, 0 Sr)
+           Ti -> Ti312(1.865 A)
+           Hf -> Hf243(2.099 A)
+           Sr -> none  [excluded from interfacial definition]
+  O 541  z= 20.548  total_CN=2  BVS=1.59  (1 Ti, 1 Hf, 0 Sr)
+           Ti -> Ti325(1.894 A)
+           Hf -> Hf252(2.014 A)
+           Sr -> none  [excluded from interfacial definition]
+  O 543  z= 20.205  total_CN=4  BVS=1.72  (2 Ti, 1 Hf, 1 Sr)
+           Ti -> Ti318(1.916 A), Ti317(2.089 A)
+           Hf -> Hf235(2.274 A)
+           Sr -> Sr63(2.979 A)  [excluded from interfacial definition]
+  O 545  z= 20.204  total_CN=3  BVS=1.71  (1 Ti, 1 Hf, 1 Sr)
+           Ti -> Ti319(1.844 A)
+           Hf -> Hf236(2.080 A)
+           Sr -> Sr70(2.870 A)  [excluded from interfacial definition]
+  O 547  z= 20.067  total_CN=4  BVS=1.70  (2 Ti, 1 Hf, 1 Sr)
+           Ti -> Ti322(1.944 A), Ti321(2.097 A)
+           Hf -> Hf231(2.252 A)
+           Sr -> Sr71(2.896 A)  [excluded from interfacial definition]
+  O 550  z= 20.329  total_CN=3  BVS=1.58  (2 Ti, 1 Hf, 0 Sr)
+           Ti -> Ti325(1.869 A), Ti324(2.248 A)
+           Hf -> Hf241(2.260 A)
+           Sr -> none  [excluded from interfacial definition]
+  O 554  z= 20.533  total_CN=2  BVS=1.70  (1 Ti, 1 Hf, 0 Sr)
+           Ti -> Ti329(1.823 A)
+           Hf -> Hf233(2.043 A)
+           Sr -> none  [excluded from interfacial definition]
+  O 847  z= 22.360  total_CN=4  BVS=1.84  (1 Ti, 3 Hf, 0 Sr)
+           Ti -> Ti328(2.344 A)
+           Hf -> Hf223(2.145 A), Hf237(2.149 A), Hf251(2.175 A)
+           Sr -> none  [excluded from interfacial definition]
+  O 858  z= 22.034  total_CN=4  BVS=1.84  (1 Ti, 3 Hf, 0 Sr)
+           Ti -> Ti311(2.348 A)
+           Hf -> Hf246(2.060 A), Hf234(2.164 A), Hf245(2.266 A)
+           Sr -> none  [excluded from interfacial definition]
+  O 863  z= 21.600  total_CN=3  BVS=2.06  (1 Ti, 2 Hf, 0 Sr)
+           Ti -> Ti306(1.951 A)
+           Hf -> Hf221(2.060 A), Hf230(2.065 A)
+           Sr -> none  [excluded from interfacial definition]
+  O 864  z= 21.553  total_CN=3  BVS=2.23  (1 Ti, 2 Hf, 0 Sr)
+           Ti -> Ti322(1.882 A)
+           Hf -> Hf222(2.031 A), Hf231(2.084 A)
+           Sr -> none  [excluded from interfacial definition]
+  O 865  z= 21.579  total_CN=3  BVS=2.08  (1 Ti, 2 Hf, 0 Sr)
+           Ti -> Ti328(1.976 A)
+           Hf -> Hf223(2.035 A), Hf232(2.059 A)
+           Sr -> none  [excluded from interfacial definition]
+  O 866  z= 21.522  total_CN=3  BVS=2.06  (1 Ti, 2 Hf, 0 Sr)
+           Ti -> Ti329(1.975 A)
+           Hf -> Hf224(2.052 A), Hf233(2.054 A)
+           Sr -> none  [excluded from interfacial definition]
+  O 868  z= 21.560  total_CN=3  BVS=2.15  (1 Ti, 2 Hf, 0 Sr)
+           Ti -> Ti318(1.889 A)
+           Hf -> Hf226(2.054 A), Hf235(2.092 A)
+           Sr -> none  [excluded from interfacial definition]
+  O 869  z= 21.620  total_CN=3  BVS=2.15  (1 Ti, 2 Hf, 0 Sr)
+           Ti -> Ti320(1.908 A)
+           Hf -> Hf227(1.999 A), Hf236(2.139 A)
+           Sr -> none  [excluded from interfacial definition]
+  O 884  z= 21.765  total_CN=4  BVS=1.86  (1 Ti, 3 Hf, 0 Sr)
+           Ti -> Ti321(2.075 A)
+           Hf -> Hf224(2.114 A), Hf231(2.273 A), Hf242(2.281 A)
+           Sr -> none  [excluded from interfacial definition]
+  O 886  z= 21.878  total_CN=4  BVS=1.87  (1 Ti, 3 Hf, 0 Sr)
+           Ti -> Ti319(2.194 A)
+           Hf -> Hf226(2.119 A), Hf244(2.174 A), Hf236(2.248 A)
+           Sr -> none  [excluded from interfacial definition]
+  O 901  z= 21.847  total_CN=4  BVS=1.68  (1 Ti, 3 Hf, 0 Sr)
+           Ti -> Ti327(2.161 A)
+           Hf -> Hf250(2.120 A), Hf232(2.272 A), Hf237(2.352 A)
+           Sr -> none  [excluded from interfacial definition]
+  O 903  z= 21.849  total_CN=4  BVS=1.87  (1 Ti, 3 Hf, 0 Sr)
+           Ti -> Ti316(2.068 A)
+           Hf -> Hf242(2.135 A), Hf234(2.205 A), Hf252(2.334 A)
+           Sr -> none  [excluded from interfacial definition]
