@@ -1,0 +1,10 @@
+Registry scan of /Users/agne/Documents/HfO_midi/Z_CLEAN/Share/Translational_shift_scan/STO_HfO2_interface_fixed.vasp
+SrO plane: 22 O, 22 Sr; 32 first-layer Hf; 24 film-bottom O; grid 55 x 55
+align: sigma 0.5 A, onTop < 0.6 A;  rMmin = min lateral Hf-Sr, clash < 1.5 A;  OOstk < 1.0 A;  d_min at the input gap
+Cell-border check passed (film neighbour shells < 3.5 A unchanged).
+Rigid, unrelaxed geometry: use this to choose starting registries, not to rank energies.
+
+name                dx      dy  align onTop  rMmin clash OOstk  d_min
+reference       +0.000  +0.000  0.132     1   0.14    14     5   2.25
+align_00        +1.712  +1.649  0.183     4   0.70    15     6   2.27
+nooverlap_01    +0.317  +3.646  0.127     2   0.48    10     5   2.29
